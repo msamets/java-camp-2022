@@ -12,6 +12,7 @@ public class Video23 {
 		int aranacak = 11;
 		boolean varMi = false;
 		
+		
 		for (int i : sayilar) {
 			if(i == aranacak) {
 				varMi = true;
